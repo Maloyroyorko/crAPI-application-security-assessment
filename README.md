@@ -69,4 +69,76 @@ Aligned with:
 
 ## 📁 Repository Structure
 
-crapi-vapt-project/ │ ├── README.md ├── executive-summary.md ├── methodology.md ├── findings/ │   ├── idor-service-report.md │   ├── jwt-bypass.md │   └── ... ├── images/ │   ├── idor-flow.png │   └── dashboard.png └── final-report.md
+crapi-vapt-project/ │ 
+├── README.md 
+├── executive-summary.md 
+├── methodology.md 
+├── findings/ 
+│   ├── idor-service-report.md │          ├── jwt-bypass.md │   
+└── ... ├── images/ │   ├── idor-flow.png │   
+└── dashboard.png 
+└── final-report.md
+
+---
+
+## 📊 Summary of Findings
+
+- Total Findings: **18**
+- Critical: **2**
+- High: **14**
+- Medium: **2**
+- Low: 0
+
+### Key Vulnerability Types Identified:
+
+- Broken Object Level Authorization (BOLA / IDOR)
+- JWT Misconfiguration & Token Abuse
+- Broken Authentication Mechanisms
+- Sensitive Data Exposure via APIs
+- Business Logic Flaws
+- Insufficient Input Validation
+
+---
+
+## 🔐 Key Highlights
+
+- Multiple IDOR vulnerabilities affecting service and vehicle modules
+- JWT-related security weaknesses enabling unauthorized access
+- API endpoints lacking proper authorization enforcement
+- Sensitive data exposure through insecure API responses
+
+---
+
+## 📚 Tools Used
+
+- Burp Suite
+- ZAP
+- WAPITI
+- Katana
+- ffuf
+- Browser Developer Tools
+- JWT Debugging Tools and extensions
+- sqlmap
+- Manual API Testing
+
+---
+
+## ⚠️ Disclaimer
+
+This project was conducted in a controlled lab environment using a deliberately vulnerable application (crAPI) for educational and ethical security research purposes only.
+
+No real-world systems were targeted or harmed.
+
+---
+
+## 👤 Author
+
+**Prepared by:** Maloy Roy Orko
+**Project Type:** Black-box VAPT (Learning / Portfolio Project)  
+**Focus Area:** API Security & Web Application Security
+
+---
+
+## 📌 Note
+
+This project is part of a structured learning path in API security testing and is intended to demonstrate practical offensive security skills combined with professional reporting standards.
