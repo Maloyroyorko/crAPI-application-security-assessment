@@ -7,7 +7,7 @@
 
 This project documents a **7-day black-box Vulnerability Assessment and Penetration Testing (VAPT)** conducted on the deliberately vulnerable application **crAPI (Completely Ridiculous API)**.
 
-**Project Duration:** 24 May 2026 – 30 May 2026  
+**Project Duration:** **24 May 2026 – 30 May 2026**
 
 The assessment focuses on identifying real-world API and web application security flaws using industry-standard methodologies, primarily aligned with:
 
