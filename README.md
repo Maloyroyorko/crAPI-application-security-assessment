@@ -68,3 +68,5 @@ Aligned with:
 ---
 
 ## 📁 Repository Structure
+
+crapi-vapt-project/ │ ├── README.md ├── executive-summary.md ├── methodology.md ├── findings/ │   ├── idor-service-report.md │   ├── jwt-bypass.md │   └── ... ├── images/ │   ├── idor-flow.png │   └── dashboard.png └── final-report.md
