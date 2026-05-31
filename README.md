@@ -69,17 +69,39 @@ Aligned with:
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
-crapi-vapt-project/ │ 
-├── README.md 
-├── executive-summary.md 
-├── methodology.md 
-├── findings/ 
-│   ├── idor-service-report.md │          ├── jwt-bypass.md │   
-└── ... ├── images/ │   ├── idor-flow.png │   
-└── dashboard.png 
-└── final-report.md
+This repository contains the Vulnerability Assessment and Penetration Testing (VAPT) documentation and artifacts for the Completely Ridiculous API (crAPI) project.
+
+```text
+crapi-vapt-project/
+├── README.md
+├── executive-summary.md
+├── methodology.md
+├── final-report.md
+├── findings/
+│   ├── idor-service-report.md
+│   └── jwt-bypass.md
+└── images/
+    ├── idor-flow.png
+    └── dashboard.png
+```
+
+## 📄 File Directory Breakdown
+
+### Root Directory
+*   **`README.md`**: Main documentation landing page and repository map.
+*   **`executive-summary.md`**: High-level overview of security posture and key business risks.
+*   **`methodology.md`**: Details on tools, scopes, and testing frameworks used.
+*   **`final-report.md`**: The complete, consolidated technical and executive report.
+
+### 🔍 Findings (`/findings`)
+*   **`idor-service-report.md`**: Technical write-up on the Insecure Direct Object Reference flaw.
+*   **`jwt-bypass.md`**: Details on the JSON Web Token authentication bypass mechanism.
+
+### 🖼️ Evidence Images (`/images`)
+*   **`idor-flow.png`**: Visual sequence diagram mapping the IDOR attack vector.
+*   **`dashboard.png`**: Screenshot evidence of the vulnerable administration dashboard.
 
 ---
 
