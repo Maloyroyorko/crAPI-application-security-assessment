@@ -30,18 +30,22 @@ A total of **18 validated security findings** were identified and documented wit
 
 The following areas were included in scope:
 
-- Authentication & Authorization mechanisms
-- REST API endpoints
-- User role and access control enforcement
-- Vehicle service and report modules
-- JWT-based session handling
-- Input validation and data exposure issues
+-  Web Application
+-  REST APIs
+-  Authentication mechanisms & Authorization controls
+-  Business Logic Components(Order Management System)
+-  Community Features
+-  Workshop Services
+-  Vehicle service and report modules(Vehicle Management Features)
+-  Denial of Service (DoS) testing
 
 Out of scope:
 
 - Infrastructure-level attacks (unless exposed via application)
-- Denial of Service (DoS) testing
 - Social engineering
+- Operating System Assessment
+- Third Party Services
+- Source Code Review(SAST)
 
 ---
 
