@@ -1,0 +1,22 @@
+HTTP/2 500 Internal Server Error
+Access-Control-Allow-Origin: *
+Content-Type: text/html; charset=utf-8
+Cross-Origin-Opener-Policy: same-origin
+Date: Wed, 27 May 2026 04:58:57 GMT
+Ngrok-Agent-Ips: X
+Referrer-Policy: same-origin
+Server: openresty/1.27.1.2
+Vary: origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Server Error (500)</title>
+</head>
+<body>
+  <h1>Server Error (500)</h1><p></p>
+</body>
+</html>
