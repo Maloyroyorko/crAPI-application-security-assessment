@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Allow: GET, HEAD, OPTIONS
+Content-Type: application/json
+Cross-Origin-Opener-Policy: same-origin
+Date: Fri, 29 May 2026 11:36:17 GMT
+Ngrok-Agent-Ips: X
+Referrer-Policy: same-origin
+Server: openresty/1.27.1.2
+Vary: origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+{"id":1,"mechanic":{"id":1,"mechanic_code":"TRAC_JHN","user":{"email":"jhon@example.com","number":""}},"vehicle":{"id":2,"vin":"8VAUI03PRUQ686911","owner":{"email":"pogba006@example.com","number":"9876570006"}},"problem_details":"My car MG Motor - Hector Plus is having issues.\nCan you give me a call on my mobile 9876570006,\nOr send me an email at pogba006@example.com\nThanks,\nPogba.\n","status":"cancelled","created_on":"07 May, 2026, 04:58:20","updated_on":null,"comments":[]}
