@@ -1,0 +1,21 @@
+POST /workshop/api/merchant/contact_mechanic HTTP/2
+Host: merlin-declivitous-crowdedly.ngrok-free.dev
+Cookie: abuse_interstitial=merlin-declivitous-crowdedly.ngrok-free.dev; chat_session_id=1969d9ed-ceb7-4e1a-83e6-00d2fb09ceae
+Content-Length: 300
+Sec-Ch-Ua-Platform: "Windows"
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJ2aWN0aW1AdmljdGltLmNvbSIsImlhdCI6MTc3OTc2MzYwNSwiZXhwIjoxNzgwMzY4NDA1LCJyb2xlIjoidXNlciJ9.mXlIIKdLE57bYgiyJ14ClTIzsS-oEEC8kToryiYTlFo8UXnLHquHLG0xtPR4YcclqPxLQdWKSyfmgMkAW_hk_Td0q6YqtOsQ1WuuW984lgzoIn4-K5orhkPC_BuUkORTD17gpva5zQmfk3EcniCr0LJeKC2eGpi0sO28-hBEfOxE-1izMg3hIa51R-2kqONWLEU3lYXksw219SGoRhxPhIVdrcH6-7F8hwe6xiwr0DvTeB4-rk0Zgq1dRGBS0l1zmjFD16upaymijrv2IdFi2ORCiGu2ebqSlmcdjvp996bCRSIEiwUt74472fTwShYirxsuyYFob0VxdXlmF3J__w
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not-A.Brand";v="24", "Chromium";v="146"
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://merlin-declivitous-crowdedly.ngrok-free.dev
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://merlin-declivitous-crowdedly.ngrok-free.dev/contact-mechanic?VIN=69C91V9F3YNY4308K
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"mechanic_code":"TRAC_JHN","problem_details":"mmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm","vin":"69C91V9F3YNY4308K","mechanic_api":"https://merlin-declivitous-crowdedly.ngrok-free.dev/workshop/api/mechanic/receive_report","repeat_request_if_failed":false,"number_of_repeats":1}
