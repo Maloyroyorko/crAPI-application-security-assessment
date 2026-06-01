@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Access-Control-Allow-Headers: Accept, Content-Type, Content-Length, Accept-Encoding, X-CSRF-Token, Authorization
+Access-Control-Allow-Methods: POST, GET, OPTIONS, PUT, DELETE
+Access-Control-Allow-Origin: *
+Content-Type: application/json
+Date: Wed, 27 May 2026 04:25:33 GMT
+Ngrok-Agent-Ips: X
+Server: openresty/1.27.1.2
+
+{"coupon_code":"TRAC075","amount":"75","CreatedAt":"2026-05-07T04:57:33.51Z"}
