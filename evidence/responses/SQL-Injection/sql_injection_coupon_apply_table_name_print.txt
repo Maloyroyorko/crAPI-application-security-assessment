@@ -1,0 +1,14 @@
+HTTP/2 400 Bad Request
+Access-Control-Allow-Origin: *
+Allow: POST, OPTIONS
+Content-Type: application/json
+Cross-Origin-Opener-Policy: same-origin
+Date: Wed, 27 May 2026 05:01:16 GMT
+Ngrok-Agent-Ips: X
+Referrer-Policy: same-origin
+Server: openresty/1.27.1.2
+Vary: origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+{"message":"pg_stat_ssl Coupon code is already claimed by you!! Please try with another coupon code"}
