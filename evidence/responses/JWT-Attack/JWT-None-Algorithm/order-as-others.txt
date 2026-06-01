@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Access-Control-Allow-Origin: *
+Allow: GET, POST, PUT, HEAD, OPTIONS
+Content-Type: application/json
+Cross-Origin-Opener-Policy: same-origin
+Date: Fri, 29 May 2026 06:43:36 GMT
+Ngrok-Agent-Ips: X
+Referrer-Policy: same-origin
+Server: openresty/1.27.1.2
+Vary: origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+{"id":43,"message":"Order sent successfully.","credit":80.0}
