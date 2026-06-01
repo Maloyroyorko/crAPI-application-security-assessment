@@ -1,0 +1,17 @@
+HTTP/2 200 OK
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Fri, 26 May 2026 04:40:45 GMT
+Expires: 0
+Ngrok-Agent-Ips: X
+Pragma: no-cache
+Server: openresty/1.27.1.2
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 0
+
+{"id":8,"name":"Victim","email":"victim@victim.com","number":"+01999888777","picture_url":"data:image/jpeg;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJ5ZXMiPz48IURPQ1RZUEUgdGVzdCBbIDwhRU5USVRZIHh4ZSBTWVNURU0gImZpbGU6Ly8vZXRjL2hvc3RuYW1lIiA+IF0+PHN2ZyB3aWR0aD0iMTI4cHgiIGhlaWdodD0iMTI4cHgiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHZlcnNpb249IjEuMSI+PHRleHQgZm9udC1zaXplPSIxNiIgeD0iMCIgeT0iMTYiPiZ4eGU7PC90ZXh0Pjwvc3ZnPg0K","video_url":null,"video_name":null,"available_credit":90.0,"video_id":0,"role":"ROLE_USER"}
