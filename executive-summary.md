@@ -24,8 +24,6 @@ The assessment was performed using a combination of automated and manual securit
 * Vehicle Management Features
 * Workshop Services
 * Order Management System
-* Denial of Service (DoS) testing
-* 
 
 ### Out of Scope
 
