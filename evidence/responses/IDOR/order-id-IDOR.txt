@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Allow: GET, POST, PUT, HEAD, OPTIONS
+Content-Type: application/json
+Cross-Origin-Opener-Policy: same-origin
+Date: Fri, 29 May 2026 12:23:52 GMT
+Ngrok-Agent-Ips: X
+Referrer-Policy: same-origin
+Server: openresty/1.27.1.2
+Vary: origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+{"order":{"id":5,"user":{"email":"admin@example.com","number":"9010203040"},"product":{"id":1,"name":"Seat","price":"10.00","image_url":"images/seat.svg"},"quantity":2,"status":"delivered","transaction_id":"359912f6-936c-4df9-9c51-f4ba84cb74f5","created_on":"2026-05-07T04:58:20.548397"},"payment":{"transaction_id":"359912f6-936c-4df9-9c51-f4ba84cb74f5","order_id":5,"amount":20,"paid_on":"2026-05-07T04:58:20.548397","card_number":"XXXXXXXXXXXX3656","card_owner_name":"Admin","card_type":"MasterCard","card_expiry":"10/2029","currency":"USD"}}
