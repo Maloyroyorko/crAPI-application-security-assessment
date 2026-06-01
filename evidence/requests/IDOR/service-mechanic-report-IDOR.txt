@@ -1,0 +1,18 @@
+GET /workshop/api/mechanic/mechanic_report?report_id=1 HTTP/2
+Host: X
+Cookie: abuse_interstitial=X; chat_session_id=1969d9ed-ceb7-4e1a-83e6-00d2fb09ceae
+Sec-Ch-Ua-Platform: "Windows"
+Authorization: Bearer eyJhbGciOiJSUzI1NiJ9.eyJzdWIiOiJhdHRhY2tlckBhLmNvbSIsImlhdCI6MTc4MDA1MTk0NSwiZXhwIjoxNzgwNjU2NzQ1LCJyb2xlIjoidXNlciJ9.DZCiZA24bB-NgTvjWzb4OAts5gFReo71WGEgeeBkwGacLwJa2GPLt7pM1cO9St9g1IL7OpOBsIMXxIWsiOWuRiiIYvoVcrGvXBlsUXwqLVQg1krHmnL8ZS6VlaJITcgghBjgAAcoZa-0bK99DjYVJxpXsZSJ-MvwTJRAM01_pDhBdrNfaC5X4M9qpagvSmU4JV34jN6HbwDZLG00ppkRMeeLCBNc1kOZTXY8TNEFXVMmvrYS5IgCkTbKjlrf2Tq3u_jPcsZ5FzsHy3t6w57un3eBGsBMgYUeF9VzzdMWc1FJRUDl3gf6YPu76hHEXaw6TWSh8SIcVJtdYXTR_cgQSQ
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not-A.Brand";v="24", "Chromium";v="146"
+Content-Type: application/json
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+Accept: */*
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: X/service-report?id=1
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+
