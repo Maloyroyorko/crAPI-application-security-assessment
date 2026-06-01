@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Access-Control-Allow-Origin: *
+Allow: POST, OPTIONS
+Content-Type: application/json
+Cross-Origin-Opener-Policy: same-origin
+Date: Thu, 28 May 2026 03:49:47 GMT
+Ngrok-Agent-Ips: X
+Referrer-Policy: same-origin
+Server: openresty/1.27.1.2
+Vary: origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+{"response_from_mechanic_api":{"id":17,"sent":true,"report_link":"http://merlin-declivitous-crowdedly.ngrok-free.dev/workshop/api/mechanic/mechanic_report?report_id=17"},"status":200}
