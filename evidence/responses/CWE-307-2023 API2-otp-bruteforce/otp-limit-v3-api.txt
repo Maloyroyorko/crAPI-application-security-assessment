@@ -1,0 +1,18 @@
+HTTP/2 500 Internal Server Error
+Access-Control-Allow-Origin: *
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Content-Type: application/json
+Date: Fri, 29 May 2026 09:57:58 GMT
+Expires: 0
+Ngrok-Agent-Ips: X
+Pragma: no-cache
+Server: openresty/1.27.1.2
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Vary: Origin
+Vary: Access-Control-Request-Method
+Vary: Access-Control-Request-Headers
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 0
+
+{"message":"ERROR..","status":500}
