@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Access-Control-Allow-Origin: *
+Allow: POST, OPTIONS
+Content-Type: application/json
+Cross-Origin-Opener-Policy: same-origin
+Date: Thu, 28 May 2026 03:51:34 GMT
+Ngrok-Agent-Ips: X
+Referrer-Policy: same-origin
+Server: openresty/1.27.1.2
+Vary: origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+{"response_from_mechanic_api":"<html><body>1eap40s6zod9y7smdp8dlpzjjgjgz1eap40s6zod9y7smdp8dlpzjjgjgz</body></html>","status":200}
