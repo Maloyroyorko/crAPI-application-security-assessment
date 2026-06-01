@@ -39,8 +39,7 @@ The following areas were included in scope:
 -  Community Features
 -  Workshop Services
 -  Vehicle service and report modules(Vehicle Management Features)
--  Denial of Service (DoS) testing
-
+  
 Out of scope:
 
 - Infrastructure-level attacks (unless exposed via application)
