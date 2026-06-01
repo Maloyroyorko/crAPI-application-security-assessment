@@ -1,0 +1,14 @@
+HTTP/2 503 Service Unavailable
+Access-Control-Allow-Origin: *
+Allow: POST, OPTIONS
+Content-Type: application/json
+Cross-Origin-Opener-Policy: same-origin
+Date: Fri, 29 May 2026 12:35:17 GMT
+Ngrok-Agent-Ips: 103.149.147.167
+Referrer-Policy: same-origin
+Server: openresty/1.27.1.2
+Vary: origin, Cookie
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+
+{"message":"Service unavailable. Seems like you caused layer 7 DoS :)"}
