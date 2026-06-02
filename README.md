@@ -96,13 +96,13 @@ crapi-vapt-project/
 *   **`final-report.md`**: The complete, consolidated technical and executive report.
 
 ### 🔍 Findings (`/findings`)
-*   **`idor-service-report.md`**: Technical write-up on the Insecure Direct Object Reference flaw.
-*   **`jwt-bypass.md`**: Details on the JSON Web Token authentication bypass mechanism.
+*   **`2-Service-or-Report-IDOR.md`**: Technical write-up on the Insecure Direct Object Reference flaw an endpoint.
+*   **`9-JWT-None-Algorithm-Attack.md`**: Details on the JSON Web Token authentication bypass mechanism(None).
 
-### 🖼️ Evidence Images (`/images`)
-*   **`idor-flow.png`**: Visual sequence diagram mapping the IDOR attack vector.
-*   **`dashboard.png`**: Screenshot evidence of the vulnerable administration dashboard.
-
+### 🖼️ Evidences ('/evidence")
+*   **`/requests`**: Visual sequence diagram mapping the attacks.
+*   **`/responses`**: response evidence of the vulnerable endpoint exploitation.
+*   **`/screenshots`**: Screenshot evidences of the vulnerable endpoints.
 ---
 
 ## 📊 Summary of Findings
