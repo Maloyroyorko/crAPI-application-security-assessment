@@ -164,6 +164,12 @@ No real-world systems were targeted or harmed.
 
 ---
 
+## Acknowledgements
+
+AI-assisted tools were used to improve report formatting, documentation quality, and project organization. All security testing, vulnerability validation, and findings presented in this repository were performed by the author and evidences and artifacts are present to support author's claim.
+
+---
+
 ## 📌 Note
 
 This project is part of a structured learning path in API security testing and is intended to demonstrate practical offensive security skills combined with professional reporting standards.
