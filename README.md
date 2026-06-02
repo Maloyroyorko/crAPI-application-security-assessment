@@ -81,9 +81,10 @@ crapi-vapt-project/
 ├── findings/
 │   ├── idor-service-report.md
 │   └── jwt-bypass.md
-└── images/
-    ├── idor-flow.png
-    └── dashboard.png
+└── evidence/
+    ├── requests
+    ├── responses
+    └── screenshots
 ```
 
 ## 📄 File Directory Breakdown
