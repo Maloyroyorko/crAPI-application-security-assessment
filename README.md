@@ -79,8 +79,8 @@ crapi-vapt-project/
 ├── methodology.md
 ├── final-report.md
 ├── findings/
-│   ├── idor-service-report.md
-│   └── jwt-bypass.md
+│   ├── 2-Service-or-Report-IDOR.md
+│   └── 9-JWT-None-Algorithm-Attack.md
 └── evidence/
     ├── requests
     ├── responses
